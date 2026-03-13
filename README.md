@@ -114,11 +114,10 @@ Tasks are stored locally using Hive. The task box is opened during app startup, 
 ## Screenshots
 
 Add screenshots here once captured.
-
-- `docs/screenshots/task-list-light.png`
-- `docs/screenshots/task-list-dark.png`
-- `docs/screenshots/add-task.png`
-- `docs/screenshots/edit-task.png`
+![alt text](Screenshot_1773443398.png)
+![alt text](Screenshot_1773443917.png)
+![alt text](Screenshot_1773443556.png)
+![alt text](Screenshot_1773443583.png)
 
 ## APK Instructions
 
