@@ -113,18 +113,17 @@ Tasks are stored locally using Hive. The task box is opened during app startup, 
 
 ## Screenshots
 
-<table cellspacing="0" cellpadding="8" style="border:none;">
-  <tr>
-    <td align="center" style="border:none;"><img src="screenshots/Screenshot_1773443917.png" width="250" /></td>
-    <td align="center" style="border:none;"><img src="screenshots/Screenshot_1773443556.png" width="250" /></td>
-    <td align="center" style="border:none;"><img src="screenshots/Screenshot_1773443398.png" width="250" /></td>
-  </tr>
-  <tr>
-    <td align="center" style="border:none;"><img src="screenshots/Screenshot_1773443583.png" width="250" /></td>
-    <td align="center" style="border:none;"><img src="screenshots/Screenshot_1773444294.png" width="250" /></td>
-    <td align="center" style="border:none;"><img src="screenshots/Screenshot_1773444307.png" width="250" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="screenshots/Screenshot_1773443398.png" width="250" />&nbsp;&nbsp;
+  <img src="screenshots/Screenshot_1773443583.png" width="250" />&nbsp;&nbsp;
+  <img src="screenshots/Screenshot_1773443556.png" width="250" />
+</div>
+
+<div align="center">
+  <img src="screenshots/Screenshot_1773443917.png" width="250" />&nbsp;&nbsp;
+  <img src="screenshots/Screenshot_1773444307.png" width="250" />&nbsp;&nbsp;
+  <img src="screenshots/Screenshot_1773444294.png" width="250" />
+</div>
 
 ## APK Instructions
 
